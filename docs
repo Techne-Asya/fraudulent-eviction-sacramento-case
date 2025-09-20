@@ -1,1 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>When Due Process Fails – Federal Civil Rights Case</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2em;
+      line-height: 1.6;
+      background: #f9f9f9;
+      color: #222;
+    }
+    header {
+      border-bottom: 2px solid #444;
+      margin-bottom: 1em;
+    }
+    h1 {
+      color: #222;
+    }
+    .section {
+      margin-bottom: 2em;
+    }
+    ul {
+      list-style-type: square;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      border-top: 2px solid #444;
+      margin-top: 2em;
+      padding-top: 1em;
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>When Due Process Fails</h1>
+    <h3>Federal Civil Rights Case · EDCA Case No. 2:25-cv-02364-DJC-CKD</h3>
+  </header>
+
+  <div class="section">
+    <h2>Case Summary</h2>
+    <p>
+      My name is <strong>Asya Weston</strong> — a law student, computer science student, licensed vocational nurse, and mother.
+      On <strong>August 7, 2025</strong>, my daughter and I were unlawfully locked out of our home at
+      <strong>WIP 800 J Lofts, Downtown Sacramento</strong>.
+    </p>
+    <p>
+      We were <strong>not behind on rent</strong>. Two days earlier, I filed a <em>Notice of Appeal</em> and
+      <em>motion for stay pending appeal</em>. Yet in a 10-minute hearing, the court refused to hear testimony or review evidence.
+      Attorneys for the landlord misrepresented facts and withheld material evidence, while clerks delayed docketing my filings.
+    </p>
+    <p>
+      This website documents my federal civil rights case, which alleges violations of <strong>42 U.S.C. § 1983</strong>,
+      fraud on the court, and violations of California’s <strong>Tenant Protection Act & SB 567</strong>.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Key Filings</h2>
+    <ul>
+      <li><a href="../federal_filing/amended_complaint.pdf">First Amended Complaint (PDF)</a></li>
+      <li><a href="../federal_filing/tro_motion.pdf">Emergency TRO Motion (PDF)</a></li>
+      <li><a href="../federal_filing/declaration_asya.pdf">Declaration of Asya Weston (PDF)</a></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Press Materials</h2>
+    <ul>
+      <li><a href="../press_materials/press_release.pdf">Press Release</a></li>
+      <li><a href="../press_materials/op_ed.pdf">Op-Ed: “When Due Process Fails”</a></li>
+      <li><a href="../public_statements/handout.pdf">One-Page Handout</a></li>
+      <li><a href="../public_statements/public_comment.pdf">City Council Public Comment</a></li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Contact</h2>
+    <p>
+      📧 Email: <a href="mailto:legallywest@outlook.com">legallywest@outlook.com</a><br>
+      ⚖️ Case No.: 2:25-cv-02364-DJC-CKD
+    </p>
+  </div>
+
+  <footer>
+    <p>
+      © 2025 Asya Weston · Licensed under Creative Commons Attribution 4.0 (CC BY 4.0).
+      You are free to share these materials with proper attribution.
+    </p>
+  </footer>
+</body>
+</html>
 
