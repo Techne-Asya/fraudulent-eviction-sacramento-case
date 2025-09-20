@@ -1,6 +1,6 @@
 # When Due Process Fails: Federal Civil Rights Case
 
-📂 Public repository of filings and documents in **Weston v. [Landlord/Defendants]**,  
+📂 Public repository of filings and documents in **Weston v. WIP 800 J Lofts**,  
 U.S. District Court, Eastern District of California, Case No. **2:25-cv-02364-DJC-CKD**.
 
 ---
